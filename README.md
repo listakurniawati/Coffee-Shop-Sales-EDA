@@ -21,8 +21,7 @@ Analisis ini bertujuan untuk memahami **pola perilaku pelanggan** di sebuah coff
 4. **Mendeteksi anomali dan jam emas**
    - Menemukan jam atau hari dengan transaksi tidak wajar (lebih tinggi/rendah dari rata-rata).
    - Mengidentifikasi “jam penggerak” revenue tertinggi.
-
-
+   
 ---
 
 ## 🧩 Dataset Overview
@@ -36,3 +35,6 @@ Dataset terdiri dari **3.547 transaksi** selama **381 hari**, mencakup:
 
 Periode data: **Maret 2024 – Maret 2025**  
 Semua nilai transaksi valid (`bad_money = 0`).
+
+## 🧩 Hasil Analisis
+🔗 Lihat versi interaktif di Notion: [Eksplorasi Data Coffee Shop]([https://living-mosquito-dca.notion.site/...](https://living-mosquito-dca.notion.site/Eksplorasi-Data-Coffee-Shop-dengan-SQL-27f6c12bc6518078bd39e951b491eed2?source=copy_link))
