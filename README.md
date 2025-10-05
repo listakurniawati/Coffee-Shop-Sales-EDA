@@ -1,4 +1,4 @@
-# ☕ Eksplorasi Data Coffee Shop dengan SQL
+# ☕ Coffee Shop Data Analytics — Brewing Insights with SQL
 
 Analisis ini bertujuan untuk memahami **pola perilaku pelanggan** di sebuah coffee shop selama satu tahun penuh, dengan menggunakan **SQL** untuk menelusuri kapan pelanggan paling sering membeli kopi, menu apa yang paling laris, serta bagaimana faktor waktu (jam, hari, bulan) dan periode khusus (weekend, payday, happy hour) memengaruhi performa penjualan.
 
