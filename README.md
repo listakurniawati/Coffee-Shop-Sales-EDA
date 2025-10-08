@@ -37,4 +37,4 @@ Periode data: **Maret 2024 – Maret 2025**
 Semua nilai transaksi valid (`bad_money = 0`).
 
 ## 🧩 Hasil Analisis
-🔗 Lihat versi interaktif di Notion: [Eksplorasi Data Coffee Shop](https://living-mosquito-dca.notion.site/Eksplorasi-Data-Coffee-Shop-dengan-SQL-27f6c12bc6518078bd39e951b491eed2?source=copy_link)
+🔗 Lihat versi interaktif di Notion: [Eksplorasi Data Coffee Shop]([https://living-mosquito-dca.notion.site/Eksplorasi-Data-Coffee-Shop-dengan-SQL-27f6c12bc6518078bd39e951b491eed2?source=copy_link](https://lista-kurniawati.notion.site/Coffee-Shop-Data-Analytics-Brewing-Insights-with-SQL-27f6c12bc6518078bd39e951b491eed2?source=copy_link))
